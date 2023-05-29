@@ -5,8 +5,11 @@ This deep learning project puts deep learning concept into practice in particula
 
 # 2. Content and "file name"
 NLP Sentiment Analyzer model: "Amazon Review - Sentiment Analyzer - NLP Project.ipny"
+
 Sentiment Analyzer results: "Sentiment.csv"
+
 Read me: This is the readme texts
+
 Dataset (images/ train data/ test data): "amazon_reviews.csv"
 
 # 3. Process and Results
